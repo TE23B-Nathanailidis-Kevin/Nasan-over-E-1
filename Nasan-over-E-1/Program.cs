@@ -65,3 +65,13 @@
 //}
 //Console.ReadLine();
 
+string rätt = "";
+while (rätt != "Hej")
+{
+ Console.WriteLine("Fel");
+ Console.ReadLine(); 
+}
+if (rätt == "Hej")
+{
+    
+}
