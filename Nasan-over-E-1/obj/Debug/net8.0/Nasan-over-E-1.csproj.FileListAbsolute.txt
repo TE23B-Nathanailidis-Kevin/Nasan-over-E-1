@@ -12,3 +12,4 @@ c:\Users\kevin.nathanailidis\OneDrive - Academedia\Documents\Programmering 1\Nas
 c:\Users\kevin.nathanailidis\OneDrive - Academedia\Documents\Programmering 1\Nasan-over-E-1\Nasan-over-E-1\obj\Debug\net8.0\Nasan-over-E-1.pdb
 c:\Users\kevin.nathanailidis\OneDrive - Academedia\Documents\Programmering 1\Nasan-over-E-1\Nasan-over-E-1\obj\Debug\net8.0\Nasan-over-E-1.genruntimeconfig.cache
 c:\Users\kevin.nathanailidis\OneDrive - Academedia\Documents\Programmering 1\Nasan-over-E-1\Nasan-over-E-1\obj\Debug\net8.0\ref\Nasan-over-E-1.dll
+c:\Users\kevin.nathanailidis\OneDrive - Academedia\Documents\Programmering 1\Nasan-over-E-1\Nasan-over-E-1\obj\Debug\net8.0\Nasan-over-E-1.sourcelink.json
