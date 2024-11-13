@@ -41,6 +41,7 @@
 // }
 // Console.ReadLine(); 
 
+
 // string lösenord = "";
 // while (lösenord != "Apelsin")
 // {
@@ -48,4 +49,19 @@
 //     lösenord = Console.ReadLine();
 // } 
 // Console.ReadLine();
+
+
+
+//for (int hello = 0; hello < 5; hello++)
+//{
+//    Console.WriteLine("Skriv ett tal");
+//    string tal = Console.ReadLine();
+//int n = 0;
+//  bool success = int.TryParse(tal, out n);
+//   if (n > 5)
+//   {
+//       Console.WriteLine("Högre än fem!");
+//    }
+//}
+//Console.ReadLine();
 
