@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nasan-over-E-1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21848c7727a78a9db63f547c0f2d5a2f001ace76")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+443d744c5694834897370a86ebdbeca8a369919b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nasan-over-E-1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nasan-over-E-1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

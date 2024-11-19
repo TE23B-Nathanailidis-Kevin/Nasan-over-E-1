@@ -65,13 +65,50 @@
 //}
 //Console.ReadLine();
 
-string rätt = "";
-while (rätt != "Hej")
+// int n = 0;
+// bool success = false;
+// while (success != true)
+// {
+//     string talKanske = Console.ReadLine();
+//     success = int.TryParse(talKanske, out n);
+// }
+
+// int n = 8;
+// bool success = false;
+// while (success != true)
+// {
+//     string talKanske = Console.ReadLine();
+//     success = int.TryParse(talKanske, out n);
+// }
+
+int hemligtTal = Random.Shared.Next(1,11);
+int gissning = -1;
+
+Console.WriteLine("Välkommen till Gissa Siffran! Jag har valt ett tal mellan 1 och 10.");
+
+while (gissning != hemligtTal)
 {
- Console.WriteLine("Fel");
- Console.ReadLine(); 
-}
-if (rätt == "Hej")
-{
-    
-}
+    Console.Write("Skriv in din gissning: ");
+    string input = Console.ReadLine();
+
+    if (int.TryParse(input, out gissning))
+    {
+        if (gissning < hemligtTal)
+        {
+            Console.WriteLine("För lågt numner!");
+        }
+        else if (gissning > hemligtTal)
+        {
+            Console.WriteLine("För högt nummer!");
+        }
+        else
+        {
+            Console.WriteLine("Rätt svar!");
+            Console.ReadLine();
+        }
+    }
+    else
+    {
+        Console.WriteLine("Det är inte ett nummer!!");
+    }
+} 
